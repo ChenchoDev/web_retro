@@ -185,8 +185,8 @@ export default {
   border: none;
   color: #ffffff;
   text-align: center;
-  font-size: 12px;
-  padding: 20px;
+  font-size: 10px;
+  padding: 12px;
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
@@ -197,7 +197,7 @@ export default {
 .icon {
   font-family: "Font Awesome 5 Free";
   font-weight: 600;
-  font-size:25px;
+  font-size:20px;
 }
 .button span {
   cursor: pointer;
