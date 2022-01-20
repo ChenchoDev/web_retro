@@ -78,7 +78,7 @@ export default {};
 }
 .txt1 {
   font-weight: 200;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .credit_cards {
