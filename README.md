@@ -1,4 +1,5 @@
 # marin_talavera_fulgencio-diw04
+![image](https://user-images.githubusercontent.com/93767832/150413706-d3f8287b-d48d-47d3-9fcb-39ee778915f4.png)
 
 ## Project setup
 ```
